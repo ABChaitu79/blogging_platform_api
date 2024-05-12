@@ -6,7 +6,7 @@
 
 ### Cloning the Repository
 
-git clone <repository_url>
+git clone https://github.com/ABChaitu79/blogging_platform_api
 cd blogging_platform_api
 
 ##Installing Dependencies
