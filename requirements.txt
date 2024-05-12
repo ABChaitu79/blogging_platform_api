@@ -1,0 +1,12 @@
+#NOTE : Run this file after moving into the API Directory by using this command : pip install -r requirements.txt
+#For this blogging platform API built with FastAPI and MongoDB, you would include FastAPI and the MongoDB driver (Motor) as dependencies. Optionally, you might include other libraries depending on your specific needs, such as Pydantic for data validation or additional middleware for FastAPI.
+
+fastapi==0.68.0
+uvicorn==0.15.0
+motor==2.5.0
+
+
+#fastapi: The FastAPI framework itself.
+#uvicorn: ASGI server for running FastAPI applications.
+#motor: Asynchronous MongoDB driver for FastAPI.
+
