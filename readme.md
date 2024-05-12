@@ -1,8 +1,8 @@
-### Blogging Platform API : 
+# Blogging Platform API : 
 
-### Setup and Usage
+# Setup and Usage
 
-## Cloning the Repository
+# Cloning the Repository
 
 git clone https://github.com/ABChaitu79/blogging_platform_api
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 # Running the API Locally
 uvicorn main:app --reload
 
-### API DOCUMENTAION
+# API DOCUMENTAION
 
 # CREATING A POST:
 
@@ -48,7 +48,7 @@ Example:
 Endpoint: DELETE /posts/{post_id}
 Example: DELETE /posts/123456
 
-## DATA MODELS
+# DATA MODELS
 
 # POST MODEL:
 {
